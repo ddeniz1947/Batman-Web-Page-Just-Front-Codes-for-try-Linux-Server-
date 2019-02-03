@@ -1,0 +1,15 @@
+#logo{
+    border: 1px solid;
+     width: 400px;
+     height: 200px;
+     padding: 10px;
+}
+.yaziarka{
+    background-image: url(img/image.jpg);
+    background-attachment: fixed;
+    background-repeat:none;
+    background-position: center;
+    background-size: cover;
+    color : white;
+    
+}
